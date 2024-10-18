@@ -14,6 +14,7 @@ This repository is structured with folders numbered sequentially, where each fol
 │   ├── report.pdf
 ├── 2/
 │   ├── main.py
+│   ├── report.pdf
 │   ├── data/
 ├── 3/
 │   └── ...
