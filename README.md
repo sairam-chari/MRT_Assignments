@@ -41,7 +41,6 @@ This repository is structured with folders numbered sequentially, where each fol
   cd 1
   ```
 
-- Each folder contains its own `README.md` explaining the details of that specific assignment.
 
 ---
 
