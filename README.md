@@ -66,7 +66,7 @@ This repository is structured with folders numbered sequentially, where each fol
 ---
 
 ## License
-This project is part of the Mars Rover Team (MRT) trainee program at IIT Bombay. All code and reports are intended for educational purposes. Usage is subject the terms of my will.
+This project is the result of the Mars Rover Team (MRT) (IIT Bombay) assignments. All codes and reports are intended for educational purposes. Usage is subject to the terms of my will.
 
 ---
 
