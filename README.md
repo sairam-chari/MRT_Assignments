@@ -46,8 +46,8 @@ This repository is structured with folders numbered sequentially, where each fol
 
 ## General Information
 
-- **Programming Languages**: Each assignment uses various programming languages, including C++, Python, etc.
-- **Topics Covered**: The assignments cover a wide range of topics related to the Mars Rover Team’s projects and robotics.
+- **Assignments**: All this repository has is the assignments I have done (or am in the middle of)
+- **Uses**: This repository is **NOT** for public utilisation. It has been made public only for the ease of checking  the assignments. The code may or may not be ready for deployment  
 
 ---
 
