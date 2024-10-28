@@ -35,13 +35,13 @@ class Vehicle:
             print(f"Vehicle is already rented by customer {self.customer.customer_id}")
 
     def return_vehicle(self):
-        
-        self.customer = None
-        self.availability = True
-        print(f"Vehicle {self.vehicle_id} returned by customer {self.customer_id}")
-            
-        if self.customer_id == None:
+        if self.customer == None:
             print(f"Vehicle is already available")
+        self.availability = True
+        print(f"Vehicle {self.vehicle_id} returned by customer {self.customer.customer_id}")
+        self.customer = None
+    
+
  
 
 class LuxuryVehicle(Vehicle):
