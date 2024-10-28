@@ -228,8 +228,8 @@ def cli():
             vehicle_id = input("Vehicle ID: ")
             make = input("Make: ")
             model = input("Model: ")
-            year = input("Year: ")
-            rate = input("Rate: ")
+            year = int(input("Year: "))
+            rate = float(input("Rate: "))
             luxury = input("Luxury(y/n): ").strip().lower()
             luxury = True if luxury == "y" else False
             rm.add_vehicle(vehicle_id,make,model,year,rate,luxury)
