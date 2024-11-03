@@ -18,4 +18,4 @@ def generate_launch_description():
             executable='status_subscriber',
             name='status_subscriber'
         ),
-    ])
+])

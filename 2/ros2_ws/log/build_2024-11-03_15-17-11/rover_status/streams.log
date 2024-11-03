@@ -1,0 +1,42 @@
+[0.463s] Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/src/rover_status': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rover_status build --build-base /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build install --record /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.557s] creating ../../build/rover_status/rover_status.egg-info
+[0.557s] writing ../../build/rover_status/rover_status.egg-info/PKG-INFO
+[0.557s] writing dependency_links to ../../build/rover_status/rover_status.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/rover_status/rover_status.egg-info/entry_points.txt
+[0.558s] writing requirements to ../../build/rover_status/rover_status.egg-info/requires.txt
+[0.558s] writing top-level names to ../../build/rover_status/rover_status.egg-info/top_level.txt
+[0.558s] writing manifest file '../../build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.559s] reading manifest file '../../build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.559s] writing manifest file '../../build/rover_status/rover_status.egg-info/SOURCES.txt'
+[0.560s] running build
+[0.560s] running build_py
+[0.560s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build
+[0.560s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib
+[0.560s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status
+[0.560s] copying rover_status/status_subscriber.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status
+[0.561s] copying rover_status/health_stat_pub.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status
+[0.561s] copying rover_status/bat_temp_pub.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status
+[0.561s] copying rover_status/__init__.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status
+[0.561s] running install
+[0.561s] running install_lib
+[0.561s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.561s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status/status_subscriber.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.561s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status/health_stat_pub.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.561s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status/bat_temp_pub.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.561s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build/lib/rover_status/__init__.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status
+[0.561s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status/status_subscriber.py to status_subscriber.cpython-310.pyc
+[0.561s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status/health_stat_pub.py to health_stat_pub.cpython-310.pyc
+[0.561s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status/bat_temp_pub.py to bat_temp_pub.cpython-310.pyc
+[0.562s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status/__init__.py to __init__.cpython-310.pyc
+[0.562s] running install_data
+[0.562s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/share/ament_index
+[0.562s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/share/ament_index/resource_index
+[0.562s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/share/ament_index/resource_index/packages
+[0.562s] copying resource/rover_status -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/share/ament_index/resource_index/packages
+[0.562s] copying package.xml -> /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/share/rover_status
+[0.562s] running install_egg_info
+[0.563s] Copying ../../build/rover_status/rover_status.egg-info to /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover_status-0.0.0-py3.10.egg-info
+[0.564s] running install_scripts
+[0.573s] writing list of installed files to '/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/install.log'
+[0.587s] Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/src/rover_status' returned '0': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rover_status build --build-base /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build install --record /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/install.log --single-version-externally-managed install_data

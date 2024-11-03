@@ -1,0 +1,18 @@
+[0.294s] Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build --no-deps symlink_data
+[0.395s] running develop
+[0.396s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.396s]   warnings.warn(
+[0.453s] running egg_info
+[0.454s] writing rover_status.egg-info/PKG-INFO
+[0.454s] writing dependency_links to rover_status.egg-info/dependency_links.txt
+[0.454s] writing entry points to rover_status.egg-info/entry_points.txt
+[0.454s] writing requirements to rover_status.egg-info/requires.txt
+[0.454s] writing top-level names to rover_status.egg-info/top_level.txt
+[0.455s] reading manifest file 'rover_status.egg-info/SOURCES.txt'
+[0.455s] writing manifest file 'rover_status.egg-info/SOURCES.txt'
+[0.456s] running build_ext
+[0.456s] Creating /home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages/rover-status.egg-link (link to .)
+[0.457s] 
+[0.457s] Installed /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status
+[0.457s] running symlink_data
+[0.477s] Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status' returned '0': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/rover_status/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sai/MRT_Assignments/2/ros2_ws/build/rover_status/build --no-deps symlink_data
