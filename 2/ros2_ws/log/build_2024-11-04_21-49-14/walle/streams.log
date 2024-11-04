@@ -1,0 +1,36 @@
+[1.309s] Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/src/walle': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/walle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/walle build --build-base /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build install --record /home/sai/MRT_Assignments/2/ros2_ws/build/walle/install.log --single-version-externally-managed install_data
+[1.608s] running egg_info
+[1.608s] creating ../../build/walle/walle.egg-info
+[1.609s] writing ../../build/walle/walle.egg-info/PKG-INFO
+[1.609s] writing dependency_links to ../../build/walle/walle.egg-info/dependency_links.txt
+[1.610s] writing entry points to ../../build/walle/walle.egg-info/entry_points.txt
+[1.610s] writing requirements to ../../build/walle/walle.egg-info/requires.txt
+[1.610s] writing top-level names to ../../build/walle/walle.egg-info/top_level.txt
+[1.611s] writing manifest file '../../build/walle/walle.egg-info/SOURCES.txt'
+[1.614s] reading manifest file '../../build/walle/walle.egg-info/SOURCES.txt'
+[1.615s] writing manifest file '../../build/walle/walle.egg-info/SOURCES.txt'
+[1.616s] running build
+[1.616s] running build_py
+[1.617s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build
+[1.617s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib
+[1.618s] creating /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib/walle
+[1.618s] copying walle/obstaclescan.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib/walle
+[1.619s] copying walle/__init__.py -> /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib/walle
+[1.619s] running install
+[1.620s] running install_lib
+[1.621s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle
+[1.621s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib/walle/obstaclescan.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle
+[1.622s] copying /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build/lib/walle/__init__.py -> /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle
+[1.623s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle/obstaclescan.py to obstaclescan.cpython-310.pyc
+[1.625s] byte-compiling /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle/__init__.py to __init__.cpython-310.pyc
+[1.626s] running install_data
+[1.627s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/walle/share/ament_index
+[1.627s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/walle/share/ament_index/resource_index
+[1.629s] creating /home/sai/MRT_Assignments/2/ros2_ws/install/walle/share/ament_index/resource_index/packages
+[1.629s] copying resource/walle -> /home/sai/MRT_Assignments/2/ros2_ws/install/walle/share/ament_index/resource_index/packages
+[1.631s] copying package.xml -> /home/sai/MRT_Assignments/2/ros2_ws/install/walle/share/walle
+[1.631s] running install_egg_info
+[1.635s] Copying ../../build/walle/walle.egg-info to /home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages/walle-0.0.0-py3.10.egg-info
+[1.637s] running install_scripts
+[1.664s] writing list of installed files to '/home/sai/MRT_Assignments/2/ros2_ws/build/walle/install.log'
+[1.701s] Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/src/walle' returned '0': PYTHONPATH=/home/sai/MRT_Assignments/2/ros2_ws/build/walle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/MRT_Assignments/2/ros2_ws/install/walle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/walle build --build-base /home/sai/MRT_Assignments/2/ros2_ws/build/walle/build install --record /home/sai/MRT_Assignments/2/ros2_ws/build/walle/install.log --single-version-externally-managed install_data

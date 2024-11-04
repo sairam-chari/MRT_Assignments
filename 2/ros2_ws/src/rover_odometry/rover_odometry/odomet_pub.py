@@ -1,6 +1,6 @@
 import rclpy
 from rclpy.node import Node
-from mars_msgs.msg import RoverOdometry
+from rover_odometry.msg import roverodo as RoverOdometry
 from geometry_msgs.msg import Twist
 import random
 
