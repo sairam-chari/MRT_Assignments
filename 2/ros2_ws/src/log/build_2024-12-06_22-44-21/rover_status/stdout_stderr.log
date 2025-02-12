@@ -1,0 +1,73 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CATKIN_INSTALL_INTO_PREFIX_ROOT
+    CATKIN_SYMLINK_INSTALL
+
+[0m
+-- Build files have been written to: /home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status
+-- Install configuration: ""
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/test
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/test/test_flake8.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/test/test_pep257.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/test/test_copyright.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/launch
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/launch/rover_status_launch.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/launch/__pycache__
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/launch/__pycache__/launch.cpython-310.pyc
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/setup.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/setup.cfg
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/resource
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/resource/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/test
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/test/test_flake8.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/test/test_pep257.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/test/test_copyright.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/launch
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/launch/rover_status_launch.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/launch/__pycache__
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/launch/__pycache__/launch.cpython-310.pyc
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/setup.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/setup.cfg
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/resource
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/scripts/resource/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/package.xml
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/rover_status/status_subscriber.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/rover_status/health_stat_pub.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/rover_status/bat_temp_pub.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/scripts/rover_status/__init__.py
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/ament_index/resource_index/package_run_dependencies/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/ament_index/resource_index/parent_prefix_path/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/environment/ament_prefix_path.sh
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/environment/ament_prefix_path.dsv
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/environment/path.sh
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/environment/path.dsv
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/local_setup.bash
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/local_setup.sh
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/local_setup.zsh
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/local_setup.dsv
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/package.dsv
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/ament_index/resource_index/packages/rover_status
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/cmake/rover_statusConfig.cmake
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/cmake/rover_statusConfig-version.cmake
+-- Installing: /home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status/share/rover_status/package.xml

@@ -1,0 +1,6 @@
+Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status': /usr/bin/cmake /home/sai/MRT_Assignments/2/ros2_ws/src/rover_status -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status
+Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status' returned '0': /usr/bin/cmake /home/sai/MRT_Assignments/2/ros2_ws/src/rover_status -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/sai/MRT_Assignments/2/ros2_ws/src/install/rover_status
+Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status': /usr/bin/cmake --build /home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status -- -j24 -l24
+Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status' returned '0': /usr/bin/cmake --build /home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status -- -j24 -l24
+Invoking command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status': /usr/bin/cmake --install /home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status
+Invoked command in '/home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status' returned '0': /usr/bin/cmake --install /home/sai/MRT_Assignments/2/ros2_ws/src/build/rover_status

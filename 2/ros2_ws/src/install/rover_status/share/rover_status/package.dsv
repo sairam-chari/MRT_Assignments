@@ -1,0 +1,12 @@
+source;share/rover_status/hook/cmake_prefix_path.ps1
+source;share/rover_status/hook/cmake_prefix_path.dsv
+source;share/rover_status/hook/cmake_prefix_path.sh
+source;share/rover_status/hook/ros_package_path.ps1
+source;share/rover_status/hook/ros_package_path.dsv
+source;share/rover_status/hook/ros_package_path.sh
+source;share/rover_status/hook/pkg_config_path.ps1
+source;share/rover_status/hook/pkg_config_path.dsv
+source;share/rover_status/hook/pkg_config_path.sh
+source;share/rover_status/hook/pkg_config_path_multiarch.ps1
+source;share/rover_status/hook/pkg_config_path_multiarch.dsv
+source;share/rover_status/hook/pkg_config_path_multiarch.sh
