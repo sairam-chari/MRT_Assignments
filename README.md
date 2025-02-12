@@ -55,7 +55,7 @@ This repository is structured with folders numbered sequentially, where each fol
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/MRT-assignments.git
+   git clone https://github.com/sairam-chari/MRT-assignments.git
    ```
 2. Navigate to the specific assignment folder:
    ```bash
